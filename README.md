@@ -1,1 +1,1 @@
-My second readme acctount
+My second readme account
